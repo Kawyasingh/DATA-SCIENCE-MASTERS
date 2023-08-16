@@ -5,7 +5,7 @@
 #(iv) tuple
 Answer
 a='kawya is a student of PWskills'
-b=[1,2,3,4.5,'shoaib', 4+5J]
+b=[1,2,3,4.5,'kawya', 4+5J]
 c=9.5
 d=(5,'kawya', 5.4 )
 
